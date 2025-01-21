@@ -1,0 +1,28 @@
+Xsession: X session started for nimda at Вт 21 янв 2025 08:38:05 +05
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/nimda/.Xauthority
+localuser:nimda being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 08:38:07.493: SSH authentication agent is already running
+gpg-agent: агент gpg уже запущен - еще один, новый, запущен не будет
+
+(xfwm4:834): xfwm4-WARNING **: 08:38:08.219: Unsupported GL renderer (llvmpipe (LLVM 15.0.6, 256 bits)).
+Xfce power manager is not running
+
+(xfce4-power-manager:875): xfce4-power-manager-WARNING **: 08:38:09.718: could not map keysym 1008ffa8 to keycode
+
+Другой сервис оповещений уже запущен, выходим
+
+** (xfce4-power-manager:875): WARNING **: 08:38:09.741: No outputs have backlight property
+
+(xfce4-power-manager:875): xfce4-power-manager-WARNING **: 08:38:09.832: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Объект по пути «/org/freedesktop/UPower/KbdBacklight» не существует
+Менеджер питания Xfce: Другой менеджер питания уже запущен
+
+** (wrapper-2.0:931): WARNING **: 08:38:12.268: No outputs have backlight property
+
+** (xiccd:971): WARNING **: 08:38:13.228: EDID is empty
